@@ -184,3 +184,4 @@ We evaluate the STEGO algorithm on the CocoStuff, Cityscapes, and Potsdam semant
 
 For feedback, questions, or press inquiries please contact [Mark Hamilton](mailto:markth@mit.edu)
 # STEGO
+# STEGO
